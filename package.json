@@ -1,0 +1,15 @@
+{
+  "name": "onepage",
+  "version": "1.0.0",
+  "description": "marketing onepage",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.2"
+  }
+}
